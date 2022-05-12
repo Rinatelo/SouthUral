@@ -1,19 +1,19 @@
-@import "css/normalize.css";
-@import "css/fonts.css";
-@import "css/variables.css";
-@import "css/vendor.css";
-@import "css/global.css";
-@import "css/overall.css";
+@import "normalize.css";
+@import "fonts.css";
+@import "variables.css";
+@import "vendor.css";
+@import "global.css";
+@import "overall.css";
 
 /* components imports */
-@import "css/components/header.css";
-@import "css/components/first.css";
-@import "css/components/become.css";
-@import "css/components/featured.css";
-@import "css/components/slider.css";
-@import "css/components/newsletter.css";
-@import "css/components/insp.css";
-@import "css/components/footer.css";
+@import "components/header.css";
+@import "components/first.css";
+@import "components/become.css";
+@import "components/featured.css";
+@import "components/slider.css";
+@import "components/newsletter.css";
+@import "components/insp.css";
+@import "components/footer.css";
 
 
 @import "css/media.css";
