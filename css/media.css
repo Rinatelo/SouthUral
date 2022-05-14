@@ -194,8 +194,9 @@
 
 	.blog-article__title {
 		max-width: none;
-		font-size: 60px;
-		line-height: 65px;
+		font-size: 40px;
+		line-height: 40px;
+		color: var(--neptune-color);
 	}
 
 	.blog-article__descr {
@@ -388,8 +389,9 @@
 	}
 
 	.blog-article__title {
-		font-size: 55px;
-		line-height: 60px;
+		font-size: 40px;
+		line-height: 40px;
+		color: var(--neptune-color);
 	}
 
 	.feature-list__text {
