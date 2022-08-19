@@ -1,10 +1,10 @@
 const swiper1 = document.querySelector('.slider-container'),
       swiper2 = document.querySelector('.swiper-container'),
       burger = document.querySelector('.burger'),
-			close = document.querySelector('.menu__close'),
-			menu = document.querySelector('.menu'),
-			playButtonsFirst = document.querySelectorAll('.main-slider__play'),
-			playButtonsFeatured = document.querySelectorAll('.slide-play');
+      close = document.querySelector('.menu__close'),
+      menu = document.querySelector('.menu'),
+      playButtonsFirst = document.querySelectorAll('.main-slider__play'),
+      playButtonsFeatured = document.querySelectorAll('.slide-play');
 
 let swiperSlider1 = new Swiper(swiper1, {
 	centeredSlides: true,
